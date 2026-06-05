@@ -14,7 +14,7 @@ gitesh@dev:~ $ cat whoami.txt
 > cloud infrastructure, LLMs, and backend APIs.
 >
 > 🔧 **Internships:** Trainee SWE @ Mobiloitte · RAG pipelines · FastAPI · Microservices  
-> 📍 **Based in:** Ghaziabad, India  
+> 📍 **Based in:** Delhi, India  
 > ☁️ **Certified:** AWS Cloud Practitioner · AWS re/Start Graduate
 
 ---
